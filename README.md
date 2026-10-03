@@ -1,6 +1,6 @@
 ## ¡Hola soy Carla! (づ￣ ³￣)づ
 
-\`\`\`python
+```python
 class WhoAmI:
     name = 'Carla Cumba'
     city = 'Guayaquil, Ecuador'
