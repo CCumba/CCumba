@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola soy Carla! (づ￣ ³￣)づ
 
-<!--
-**CCumba/CCumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\`\`\`python
+class WhoAmI:
+    name = 'Carla Cumba'
+    city = 'Guayaquil, Ecuador'
+    studies = 'Ingeniería en Ciencia de Datos e IA, ESPOL'
+    languages = ['Python', 'Java', 'JavaScript', 'HTML', 'CSS']
+    hobbies = [
+        'Leer',
+        'Escuchar música'
+    ]
 
-Here are some ideas to get you started:
+    def ambitions():
+        BecomeProfessionalPhotographer()
+        LearnJapanese()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def currently():
+        return 'Aprendiendo algo nuevo cada semestre'
+\`\`\`
