@@ -1,7 +1,7 @@
 # ¡Hola soy Carla! (づ￣ ³￣)づ
 
 
-## Un poco de mí
+## Un poco de mí (｡◕‿◕｡)
 
 ```python
 class WhoAmI:
